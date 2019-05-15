@@ -1,0 +1,5 @@
+scikit-umfpack
+pynvrtc
+menpo
+
+runway-python==0.0.74
