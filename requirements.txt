@@ -1,5 +1,6 @@
 scikit-umfpack
 pynvrtc
 menpo
+torchvision
 
 runway-python==0.0.74
