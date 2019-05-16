@@ -3,6 +3,6 @@ pynvrtc
 menpo
 torchvision
 cupy
-opencv-python>=3.3.0.10
+opencv-contrib-python
 
 runway-python==0.0.74
