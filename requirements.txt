@@ -4,5 +4,6 @@ menpo
 torchvision
 cupy
 opencv-contrib-python
+scipy==1.1
 
 runway-python==0.0.74
