@@ -2,7 +2,7 @@ scikit-umfpack
 pynvrtc
 menpo
 torchvision
-cupy
+cupy-cuda92
 opencv-contrib-python
 scipy
 
